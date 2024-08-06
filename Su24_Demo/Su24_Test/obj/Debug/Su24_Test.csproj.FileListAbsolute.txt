@@ -1,0 +1,10 @@
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Su24-CO1103\code\Su24_Test\bin\Debug\Su24_Test.exe.config
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Su24-CO1103\code\Su24_Test\bin\Debug\Su24_Test.exe
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Su24-CO1103\code\Su24_Test\bin\Debug\Su24_Test.pdb
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Su24-CO1103\code\Su24_Test\obj\Debug\Su24_Test.csproj.AssemblyReference.cache
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Su24-CO1103\code\Su24_Test\obj\Debug\Su24_Test.Form1.resources
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Su24-CO1103\code\Su24_Test\obj\Debug\Su24_Test.Properties.Resources.resources
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Su24-CO1103\code\Su24_Test\obj\Debug\Su24_Test.csproj.GenerateResource.cache
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Su24-CO1103\code\Su24_Test\obj\Debug\Su24_Test.csproj.CoreCompileInputs.cache
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Su24-CO1103\code\Su24_Test\obj\Debug\Su24_Test.exe
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Su24-CO1103\code\Su24_Test\obj\Debug\Su24_Test.pdb
